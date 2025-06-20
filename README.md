@@ -1,1 +1,3 @@
 # node-js-nested-streams-example
+
+    npx ts-node src/index.ts <input_file> [input_file2] ...
